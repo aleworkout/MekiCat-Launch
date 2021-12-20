@@ -8,7 +8,7 @@ const Team = () => {
       <h3 className={styles.title}>Our Team</h3>
 
       <p className={styles.description}>
-        The Ancient Cats Club was created by a team of digital and tech experts:
+        The Meki Cats Club was created by a team of digital and tech experts:
         Entrepreneurs, Blockchain experts, Marketing wizards, Artists, Advisors,
         Investors… We are committed to delivering the best experience and making
         this project a true success.

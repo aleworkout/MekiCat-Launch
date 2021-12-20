@@ -1,9 +1,9 @@
 export const faqs = [
   {
     id: 1,
-    title: 'What is Ancient Cats Club?',
+    title: 'What is Meki Cats Club?',
     ans: [
-      'The Ancient Cats Club is a private collection of 2800 Ancient Cats NFTs— unique digital collectibles. The Ancient Cats are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS. Each NFT is unique and provides full commercial rights.',
+      'The Meki Cats Club is a private collection of 2800 Meki Cats NFTs— unique digital collectibles. The Meki Cats are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS. Each NFT is unique and provides full commercial rights.',
     ],
   },
   {
@@ -32,8 +32,8 @@ export const faqs = [
   },
   {
     id: 5,
-    title: 'When will my Ancient Cat NFT be revealed?',
-    ans: ['The Ancient Cats Club NFTs will be 72h after the public sale.'],
+    title: 'When will my Meki Cat NFT be revealed?',
+    ans: ['The Meki Cats Club NFTs will be 72h after the public sale.'],
   },
   {
     id: 6,
@@ -46,7 +46,7 @@ export const faqs = [
     id: 7,
     title: 'Why do we need royalties?',
     ans: [
-      'The amount of royalties was fixed at 8% to finance the Ancient Cats Club projects and the New Era Empire expansion. The funds collected will benefit the holders through how they are spen t to increase the popularity and strength of the project. Also, exclusive events for the holders will be organized in top cities of the world. This percentage can decrease over time.',
+      'The amount of royalties was fixed at 8% to finance the Meki Cats Club projects and the New Era Empire expansion. The funds collected will benefit the holders through how they are spen t to increase the popularity and strength of the project. Also, exclusive events for the holders will be organized in top cities of the world. This percentage can decrease over time.',
     ],
   },
   {

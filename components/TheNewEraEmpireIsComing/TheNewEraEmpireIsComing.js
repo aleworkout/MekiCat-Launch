@@ -9,7 +9,7 @@ const TheNewEraEmpireIsComing = () => {
       </h2>
 
       <p className={styles.faq_Conclusion_details}>
-        The Ancient Cats Club has returned and will establish its leadership and
+        The Meki Cats Club has returned and will establish its leadership and
         empire over the world as it had before. Join us now on Discord!
       </p>
 

@@ -27,7 +27,7 @@ const Footer = () => {
             align="center"
             style={{ fontWeight: "bold", padding: "0 3px" }}
           >
-            &copy; {new Date().getFullYear()} Charming Chameleons. All rights
+            &copy; {new Date().getFullYear()} Meki Cats. All rights
             reserved.
           </Typography>
         </Grid>

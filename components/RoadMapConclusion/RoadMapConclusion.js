@@ -25,7 +25,7 @@ const RoadMapConclusion = () => {
         >
           {/* <Image src="/chameleon.jpg" width={400} height={400} alt="horus1" /> */}
           <Image
-            src="/chameleon_club.jpg"
+            src="/chameleon_club.png"
             width={400}
             height={400}
             alt="horus1"
@@ -41,7 +41,7 @@ const RoadMapConclusion = () => {
           </h2>
           <div className={styles.roadmap_conclusion_details}>
             <p>
-              The Ancient Cats Club has been around for thousands of years and
+              The Meki Cats Club has been around for thousands of years and
               is here to stay to build a new era empire on Earth like they did
               before. The New Era Empire Phase has been announced on our Discord
               Channel. Check it out there! As always true believers in the
@@ -84,7 +84,7 @@ export default RoadMapConclusion;
 //   </h2>
 //   <div className={styles.roadmap_conclusion_details}>
 //     <p>
-//       The Ancient Cats Club has been around for thousands of years and is
+//       The Meki Cats Club has been around for thousands of years and is
 //       here to stay to build a new era empire on Earth like they did before.
 //       The New Era Empire Phase has been announced on our Discord Channel.
 //       Check it out there! As always true believers in the Ancients Cats will
